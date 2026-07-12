@@ -37,12 +37,5 @@ A Full-Stack Developer specializing in backend engineering. I focus on building 
   <img src="https://img.shields.io/badge/Shell_Script-161A22?style=flat-square&logo=gnu-bash&logoColor=4EAA25" alt="Shell Script">
 </p>
 
-## Github Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gominhwi&show_icons=true&theme=dark&hide_border=true&bg_color=161A22" alt="Github Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gominhwi&layout=compact&theme=dark&hide_border=true&bg_color=161A22" alt="Top Languages" height="150">
-</p>
-
 <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 10px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); display: inline-block;">
 
